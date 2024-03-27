@@ -1,0 +1,57 @@
+.addButton {
+  margin-left: 15px;
+  width: 35px;
+  font-size: 22px;
+  background-color: cyan;
+  border-color: cyan;
+  border-radius: 5px;
+}
+.container {
+  width: 500px;
+  min-height: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #23f2f2;
+  border-radius: 15px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+}
+.listContainer {
+  list-style-type: none;
+  background-color: white;
+  border-radius: 30px;
+}
+
+input {
+  width: 90%;
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.removeButton {
+  width: 30px;
+  font-size: 20px;
+  margin-left: 0;
+  margin-bottom: 5px;
+  margin-right: 20px;
+  background-color: cyan;
+  border-color: cyan;
+  border-radius: 6px;
+}
+.listItem {
+  width: 85%;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 30px;
+}
+.headLine {
+  background-color: rgb(133, 166, 255);
+  border-radius: 5px;
+  text-align: center;
+}
